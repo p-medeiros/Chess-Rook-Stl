@@ -1,0 +1,1 @@
+Simple chess rook with threading by P_Medeiros07 on Thingiverse: https://www.thingiverse.com/thing:6330957
